@@ -1,7 +1,7 @@
 # java-fundamental-1
 Java Fundamental Exercise 1
 
-Question 1:
+# Question 1:
 
 Buatlah sebuah aplikasi yang mengeluarkan sebuah text pada console:
 (Note: aplikasi ini belum menggunakan validasi, artinya aplikasi akan error apa bila format input salah)
@@ -35,7 +35,7 @@ Buatlah sebuah aplikasi yang mengeluarkan sebuah text pada console:
 “Hasilnya sekarang adalah (? Dalam double)”
 
  
-Question 2:
+# Question 2:
 
 Buatlah sebuah aplikasi yang mengeluarkan sebuah text pada console:
 (Note: aplikasi ini belum menggunakan validasi)
@@ -54,8 +54,9 @@ Buatlah sebuah aplikasi yang mengeluarkan sebuah text pada console:
 
 “Menghitung umur Alex…”
 “Umur anda adalah 23 tahun”
+
  
-Question 3
+# Question 3
 
 Buatlah sebuah aplikasi yang mengeluarkan sebuah text pada console:
 (Note: aplikasi ini belum menggunakan validasi)
